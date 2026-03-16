@@ -33,8 +33,4 @@ public class T3 {
         panelThree.setBackground(Color.red);
         return panelThree;
     }
-
-    public static void main(String[] args) {
-        new T3();
-    }
 }
